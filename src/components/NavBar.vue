@@ -4,7 +4,7 @@
 
 <template>
   <div class="row">
-    <div class="h1">SMDB</div>
+    <div class="h1">MDB</div>
     <div class="h2">Movies</div>
     <div class="h2">Series</div>
     <div class="h2">Actors</div>
@@ -14,7 +14,7 @@
 
 <style scoped>
 .row {
-  background-color: #505050;
+  background-color: #2D2D2D;
   padding: 2rem;
   display: flex;
   flex-direction: row;
@@ -28,5 +28,6 @@
 .h2 {
   font-size: 1.5rem;
   font-weight: bold;
+  color: white;
 }
 </style>

@@ -15,7 +15,7 @@
 
 <style scoped>
 .row {
-  background-color: #505050;
+  background-color: #2D2D2D;
   height: 15rem;
   padding: 2rem;
   display: flex;
@@ -26,6 +26,7 @@
 }
 .h3 {
   font-size: 2rem;
+  color: white;
 }
 .cast {
   margin-left: 10rem;
