@@ -17,4 +17,8 @@ html, body, #app {
   justify-content: center
 }
 
+#app {
+  flex-direction: column;
+}
+
 
